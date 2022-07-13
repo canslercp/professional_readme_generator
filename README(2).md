@@ -1,0 +1,1 @@
+{"github":"c","email":"c","title":"c","description":"c","license":"MIT","install":"npm i","run":"npm test","use":"c","contribute":"c"}
